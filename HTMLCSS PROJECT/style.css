@@ -9,7 +9,7 @@
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .nav-logo {
@@ -41,7 +41,8 @@
 }
 
 .add-second {
-    font-size: 1rem;
+    font-size: 1.1rem;
+    font-style: bold;
     margin-left: 3px;
 }
 
@@ -56,7 +57,7 @@
     display: flex;
     justify-content: space-evenly; 
     background-color: pink;
-    width: 620px;
+    width: 1050px;
     height: 40px;
     border-radius:4px;
 }
@@ -136,8 +137,8 @@ span {
 }
 
 .panel-ops {
-    width: 70%;
-    font-size: 0.85rem;
+    width: 95%;
+    font-size: 1rem;
 }
 
 /* .panel-deals {
